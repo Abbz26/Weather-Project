@@ -27,6 +27,10 @@ li {
   margin: 0 auto;
 }
 
+li.speed {
+  margin-bottom: 60px;
+}
+
 .weather-app {
   border: 1px solid #dadde1;
   padding: 25px;
